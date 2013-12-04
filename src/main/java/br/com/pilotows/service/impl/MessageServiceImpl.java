@@ -47,7 +47,7 @@ public class MessageServiceImpl implements MessageService{
 
 	
 	/**
-	 * @return the messagedao
+	 * @return the messagedaoooo
 	 */
 	public MessageDAO getMessagedao() {
 		return messagedao;
